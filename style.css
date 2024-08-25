@@ -1,0 +1,9 @@
+.box {
+  margin-left: 500px;
+  margin-top: 400px;
+  width: 200px;
+  height: 200px;
+  border: 2px solid red;
+  background-color: aqua;
+  transform: perspective(100px) rotateY(50deg);
+}
